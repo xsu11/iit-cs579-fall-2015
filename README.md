@@ -6,4 +6,5 @@ Created by:
 
 Project Cooperated with:
 	Chengnan Zhao <czhao18@hawk.iit.edu>
+
 The project is to design a City Sight Recommendation System Using Twitter.
