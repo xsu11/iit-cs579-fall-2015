@@ -1,0 +1,166 @@
+{
+  "binary_expt": [
+    "0.7400", 
+    "0.7000"
+  ], 
+  "cv10": "0.6300", 
+  "cv3": "0.6209", 
+  "find_contexts": [
+    "holiday ! ! i rate this film a 10 because its gr8 and i hope they never re make it because", 
+    "end wen nicole and andre are dancing ? ? ? its really bugging me because i want 2 no what it", 
+    "me because i want 2 no what it is because its a nice song ! !"
+  ], 
+  "get_files": [
+    "data/train/pos/10057_9.txt", 
+    "data/train/pos/10137_7.txt", 
+    "data/train/pos/10155_9.txt", 
+    "data/train/pos/10230_9.txt", 
+    "data/train/pos/10231_10.txt", 
+    "data/train/pos/10281_7.txt", 
+    "data/train/pos/10596_8.txt", 
+    "data/train/pos/10605_7.txt", 
+    "data/train/pos/10614_7.txt", 
+    "data/train/pos/1062_10.txt"
+  ], 
+  "get_true_labels_neg": [
+    0, 
+    0, 
+    0, 
+    0, 
+    0
+  ], 
+  "get_true_labels_pos": [
+    1, 
+    1, 
+    1, 
+    1, 
+    1
+  ], 
+  "maxdf_expt": [
+    "0.7600", 
+    "0.7525", 
+    "0.7675", 
+    "0.7600", 
+    "0.7525", 
+    "0.7500", 
+    "0.7700", 
+    "0.7625", 
+    "0.7575", 
+    "0.7600"
+  ], 
+  "mindf_expt": [
+    "0.7475", 
+    "0.7600", 
+    "0.7500", 
+    "0.7425", 
+    "0.7500", 
+    "0.7425", 
+    "0.7475", 
+    "0.7375", 
+    "0.7275", 
+    "0.7300"
+  ], 
+  "nfolds_expt": [
+    "0.7000", 
+    "0.7400", 
+    "0.7450", 
+    "0.7525"
+  ], 
+  "pred_term": 1615, 
+  "rem_feat": "0.7725", 
+  "tokenize": [
+    "hi", 
+    "there", 
+    "what_is", 
+    "up"
+  ], 
+  "tokenize_not": [
+    "hi", 
+    "-", 
+    "that", 
+    "is", 
+    "not", 
+    "not_cool", 
+    "not_.", 
+    "at", 
+    "all", 
+    ".", 
+    "not"
+  ], 
+  "tokenize_punct": [
+    "hi", 
+    "-", 
+    "there", 
+    "-", 
+    "what_is", 
+    "up", 
+    "?", 
+    "?", 
+    "?", 
+    "?"
+  ], 
+  "tokenizer_expt": [
+    "0.7400", 
+    "0.7450", 
+    "0.7475"
+  ], 
+  "top_coef": [
+    [
+      [
+        [
+          "worth", 
+          0.61202695820765429
+        ], 
+        [
+          "film", 
+          0.54737364161581792
+        ], 
+        [
+          "have", 
+          0.47928273189961212
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "worst", 
+          -0.85392289056236725
+        ], 
+        [
+          "nothing", 
+          -0.73758348631618031
+        ], 
+        [
+          "waste", 
+          -0.66700704570241909
+        ]
+      ]
+    ]
+  ], 
+  "top_errors": "[('index', 194), ('probas', array([ 0.99613468,  0.00386532])), ('predicted', 0), ('truth', 1), ('filename', 'data/test/pos/9713_8.txt')]", 
+  "vec": [
+    14, 
+    15, 
+    16, 
+    22, 
+    29, 
+    31, 
+    49, 
+    58, 
+    60, 
+    75
+  ], 
+  "vec_nonbinary": [
+    11, 
+    8, 
+    6, 
+    4, 
+    3, 
+    3, 
+    3, 
+    3, 
+    3, 
+    2
+  ]
+}

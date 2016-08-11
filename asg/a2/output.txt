@@ -1,0 +1,260 @@
+{
+  "cut1": 3, 
+  "gn_1_2": [], 
+  "gn_1_4": [
+    [
+      "A", 
+      "B", 
+      "C"
+    ], 
+    [
+      "D", 
+      "E", 
+      "F", 
+      "G"
+    ]
+  ], 
+  "gn_2_3": [
+    [
+      "A", 
+      "B", 
+      "C"
+    ]
+  ], 
+  "gn_sizes": [
+    100, 
+    68, 
+    100, 
+    32, 
+    40, 
+    47
+  ], 
+  "graph_edges": 6060, 
+  "graph_order": 5062, 
+  "jaccard_wt": [
+    [
+      [
+        "Bill Gates", 
+        "Bill & Melinda Gates Foundation"
+      ], 
+      85.21555039787799
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Citizen"
+      ], 
+      45.04505080339805
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "ONE"
+      ], 
+      35.28716797315588
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "PATH"
+      ], 
+      27.67595978062157
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Sue Desmond-Hellmann"
+      ], 
+      25.41971985941284
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "MY World"
+      ], 
+      20.80468572523367
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Girl Up"
+      ], 
+      18.226359200743495
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Poverty Project"
+      ], 
+      17.006822202565235
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Roll Back Malaria"
+      ], 
+      16.50620565387405
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Microsoft Research"
+      ], 
+      15.850158607681756
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "GivingTuesday"
+      ], 
+      15.683180405505398
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "CNN"
+      ], 
+      14.094190344190345
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Girl Effect"
+      ], 
+      13.077373366013072
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Show of Force: Social Good"
+      ], 
+      12.813765271145225
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Devex"
+      ], 
+      10.520919421487601
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Speak Up Africa"
+      ], 
+      9.742433777676068
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "EFA Report UNESCO"
+      ], 
+      9.560325727513227
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Aeras"
+      ], 
+      9.392662447950908
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Accelerator"
+      ], 
+      9.354353350535618
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Rio+Social"
+      ], 
+      9.085596388656883
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Surface"
+      ], 
+      9.081644281644282
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "UNICEF USA"
+      ], 
+      8.921546961325966
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Sustainable Energy for All"
+      ], 
+      8.863801169590644
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Better Immunization Data Initiative"
+      ], 
+      8.673726212400243
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "World Bank"
+      ], 
+      8.635132607638498
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "U.S. Department of State"
+      ], 
+      8.547602303931418
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "MSN"
+      ], 
+      8.489853896103897
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "TED"
+      ], 
+      8.45472266524898
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Upworthy"
+      ], 
+      8.34442105263158
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Stop TB Partnership"
+      ], 
+      8.278417448060306
+    ]
+  ], 
+  "ncv1": 1.0285714285714285, 
+  "score_clusters": [
+    0.5394522186431889, 
+    0.7112986541855564, 
+    0.6125866583993509, 
+    0.7394497863247863, 
+    0.38487710745480397, 
+    0.169372331833391
+  ], 
+  "subgraph_edges": 1710, 
+  "subgraph_edges_2": 1124, 
+  "subgraph_order": 712, 
+  "subgraph_order_2": 417, 
+  "volume1": 7
+}

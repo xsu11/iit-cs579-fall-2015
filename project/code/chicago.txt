@@ -1,3 +1,5 @@
+-87.932688, 41.638685, -87.517954, 42.021388
+-87.627810, 41.882048, 50mi
 Art Institute of Chicago
 Millennium Park
 Cloud Gate
